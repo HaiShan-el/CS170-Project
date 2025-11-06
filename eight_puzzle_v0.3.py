@@ -12,8 +12,6 @@ import heapq
 import math
 from copy import deepcopy
 
-# 请修改为您的学号
-STUDENT_ID = "XXX"
 
 
 class Node:
